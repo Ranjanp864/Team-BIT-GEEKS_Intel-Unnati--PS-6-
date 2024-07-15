@@ -1,2 +1,2 @@
-# Team-BIT-GEEKS_Intel-Unnati--PS-6
+# Team BIT GEEKS, This is a public repository 
 GPS TOLL-BASED SYSTEM USING PYTHON
