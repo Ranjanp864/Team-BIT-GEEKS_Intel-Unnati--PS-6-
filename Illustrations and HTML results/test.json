@@ -1,0 +1,412 @@
+{
+    "bbox": [
+        76.398078,
+        12.964837,
+        77.606247,
+        14.225538
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "engine": {
+            "build_date": "2024-06-05T10:07:23Z",
+            "graph_date": "2024-07-01T14:40:51Z",
+            "version": "8.1.0"
+        },
+        "query": {
+            "coordinates": [
+                [
+                    77.60625,
+                    12.96557
+                ],
+                [
+                    76.398212,
+                    14.225618
+                ]
+            ],
+            "format": "json",
+            "profile": "driving-car"
+        },
+        "service": "routing",
+        "timestamp": 1720176382135
+    },
+    "routes": [
+        {
+            "bbox": [
+                76.398078,
+                12.964837,
+                77.606247,
+                14.225538
+            ],
+            "geometry": "yicnA_ntxMwBANjA@H^|DDd@Dn@Fj@HlA@P\\|EHfANnBDj@JxAPdCRfCBRGz@Dh@p@|JRpACd@M`ASl@a@b@YTe@VsAt@uB`A{@f@i@^IFuAdBYd@Uf@I^c@|CUbCCn@JjBl@`DBHLlADd@FnA@T\\vBb@bAVZTVr@j@FZ@RGZEDc@Tm@Hg@ByAn@a@XOJs@r@_G`H{CrDe@f@MLw@x@[\\w@t@k@n@iArAqCfEOXCFKb@[|@Yx@wBhGg@tASf@Qf@[|@k@fBSr@IVa@~@u@pBk@lAI|@[dEuACc@C_AHiBb@{@d@]VIFkBtA}@~@}@x@}CfCw@`@[BkBCq@EuLwAg@@sC`@iCp@IFKTAXFRTNKVCJYzAAFeAvC_@Z}@VWdA@f@jAlE`AtBS@{@@{DHcDHWB}@?g@?uA@}@@W?eA?s@?Y?i@?]@_@?[?Q?S?qA@oADq@?mBB}@?gA@_ABiABy@DKfGaA@gA@aA@kABgDDiADw@NeAf@}GvEwDlC}EzBg@RsAh@iFbCw@`@y@^iAj@aFfCqA`@aEdAuEjAsDz@s@Ju@N{@P}@R}@P{@Pw@NaAR{@RqCn@WLo@TA?uCbAuAn@UNKB_Al@KFa@R}AjAOLaBtAkAdAm@h@}CjCG^Az@ThA@b@G`AG\\W`@OTWTYN_@Ha@DyBHcBRsHtAi@JyA^{@\\wIrDm@\\u@l@DNe@r@sBdE}CjG_@t@MVKRGJS`@MXo@nAc@z@MT{AfDu@`BaEpIEJi@bAgLpVoAlC{EfK]b@INIE_ElICHuBtEQRcAxBaJfQk@pAQh@Ql@_@~AwBnNi@nBo@|AaTne@sBlEe@v@k@v@aFxF[b@k@~@i@lAa@vAmGzWk@`Bs@fBoDpIk@dBW`A{CdPa@fBuJx_@}DjOCp@_DfM_GvTgDtMcE`Pk@|BwCxKy@pCyEnRg@~BqGj]Or@kC`OyA~HaCnN]pB}ArIa@xAk@zA{@jB_FvJwLzU}A`D_BhDo@nAkFjKeD|G_D`HgHzOy@hB}FdMeTne@yHrPuBzE_B`Es@jBc@fA{@dCSv@qCrL{AhG{Ir^a@vAq@pBoBhFiCfHiA`Du@rBaF`NyJrXqb@tqAiAlDs@hC}C|Lk@xBcExOk@zBKdAG`@eAdD_AnBSb@s@nAkB|Cs@~@_@d@}AxAeFhEc@^QL]XWTwD`DkA`AoIfHyDzCsAv@sCxAcAb@mC`Ai]`LmBr@cBt@sAp@iBh@_@TkDrCkBhB_EzDeBtB}CjC_DjCuDbDgBbBaGpF}PdPcGxFaCxBeCdCsTxSeQjPaDpCqIhIoCpBYRcAt@oCnByAlAuHbGu@x@_BbBcBbCcHbKu@fACDaDjEoCbEkBjCg@z@}J~NmChE{ArB_BpB}AjByE~Gg@h@sAxAiEbEgAdAwEbG{BvCyDpEgClDeBbEmBpFgC~E{NvUeBjCkFnI_HtKcDpFwFpIqEbHoEhHyEhHcB~BmHvLuEdHsFbJu@lAcCzDiBtCyAdC{@`BgBdEyLrVaDdHo@bBeAxCwBzGi@bB{@dC}AnDmFrJk@bAc@v@c@v@sF~JsExI{@vAs@vAeBxC]`@Q\\mB`C_D~CyCrCiBhBkIlI{BtB]^_BvAmFvFoEfE{@`A{E~EkFzF{D~DgJ|Is@x@wAtAoAvAsDxDSTWToC|CiH`HqFnF}IdJ_\\~ZwCzCg@d@yHlIk@j@SRWTk@j@eFzEcF`FqFhFm@p@wBtBiBrBuFrGcD~CQRyBtB}@fAyAdCwDzGo@x@_AbA_DzCuAxAiSrRqClC_CrB}BlA}@ZgJlBcH~AwMlCsEx@yE`AaBZkCn@aA\\w@`@uAlAsArBaHpLmD~F}CrEyAhBkL~M{GvHcEfFqApCwFzMeAzBcAtBw@xAwA|AqBdBcCzBm@l@cBxBkBvCkH~K_DtEwPvSaAlAsKrMcA`AuIjImGvFsAjAmKdJcJbIc@d@eGjHcAdBg@hAg@dBw@dCg@jBk@dAi@|@g@n@_@^_@VuDrBeCpAiCzAqDjCiCtBoExEk@l@g@j@s@v@yCdDuBxBkBnBiHvHcBfBwAvAkAlAOPyA`Bw@z@kGfGwB|Ba@j@mC~CKHe@j@_@`@oBhBcBvA{AhAmA|@iDvBsBnAoIbFuA|@mAt@yB`B_BlBq@jAs@vAuCnFgB|C}EhJoEvImBtDa@v@w@tB[dAWx@_@z@_AjCiApCS\\gJjOi@~@eDnFmBrDiClEoAzBmEhGqClEcCnE}G`Mo@fAwDjH]n@wAbCaAjBqA`C[h@iBtCqD|E}@bAsA|@g@VqPtJu@z@Up@G`@IvBCfDCpAMz@WhAY|@[v@g@|@i@t@}AvAmBzAqAz@kIvFaChBsBzAeCdBoBzAyEdEy@x@gL~JoAlAqBbB{DtDgEjDWV{@t@{A~@}Aj@cFrA}L|CuJ~BoHfBaAVmAZm@NYFwQnEwFtAg@LaB`@_LrCwCt@uA\\wCp@sDz@g@LqHlBcCl@_EbAeEdA{@Rc@L}Ct@m@N}Cx@}A^_ARyPjE_ATIBe@Lc@JyJ`C}I~BoKnCsFpAsDdAeBj@uCfAwDlBuBtAiDbCyEtEyEdGiCnEgCbGuC|GgCdG_C~FsBrEuNx\\{BvFqBlEa@t@c@v@a@r@eBfBuApA}AdAiB|@}IlCkMtDaShG{OvEyNrE{LdDiF`BeNjE_UzHkHfCiCz@eJlDiNzEsQtGcDxBcEbDkHdGkb@h]cAx@qYvUs^jZqH~FqNtKmEnDaI~GeDjCaCrBaChB{F`FeE|CcH`DeJrEs@ZwJhEaEpBmElB}DlBkDzAcMdGoMdGwHnDaCtAqC|BuDbDeIxHyBnBkHpGkQ`PeDzCeLrK{A`AyMbIwFlDeBvAw@v@_@^uB`CkCjC]XsA~@oBdAmAf@w@Vy@XgHtCaLdEaBx@}@f@uA|@iA|@_D~CqRbSkBrBkB~BgA|AmBzCuAfC_AlBk@tAy@|ByHrTcBrEeA~BeBpC{@lAaAhA_MxKiBrAmBfAkAj@_Bp@{MzDgFtA}FbBiEpAsJjCeOdEaN~DcHxBu@RkEnA}DfAsSrFoYjHm[hJ{@Pu@PoAP}AHkAA{CUcGu@gBKoAAeAB}Cb@yCbAsThI_ZhLsCrAiDlBiDrBiExB}CnA_FzAsFlAcEj@oLnAeEt@qDbAaCz@sOdGy^xPc@RcQhIc^bPk@VgUhKiClA}KfFi@VuCnAuDdBkBdAoNfHu[rOiEzB{MpIaNlIqT`N_FrCo@`@cM~HqElCij@b]sJ|FoFjDuHzEqBrAc@ZcDlBq@\\oDvB}O`JiQpKcPlKwMdJmIdG}IrGmExCaIdEwR|He@P_JrD{CpA}KnEqDvAw[jLo^hMmMbE_F~AuExA}EhBuFvBaFlCeLrFoHrD_ErBuAl@iFrCMb@wG~DcAr@eCdB{DbCw@CoBpAiTbNmCrA{BdA{Bx@sFjAsEr@iH|@cBRwKfAgN`Ba@D_LjA_Il@sLj@wRx@}Rd@wCLeE\\gQfAaPz@}DVuHZoGFoI@ePHkIAgEV}APsEr@kCf@{@TsAd@mBnAaBlAgApA_MpNs@z@oDdE{WzZsFnH}C|C}B|BoWnZyNpPkA~@_CzAsBx@cBh@k@LiCr@u@VwGtB{IhCa_@hLyYvI{Bv@gBx@iEzBoEfC]P_Ar@s@r@}@lAsA|BiAvBaLtTg@fAsMvVoKpSq@nAyAvCiAjDuKdd@{WfhAMd@iArDqApCkAdBmGbIwL`OwCrE[x@k@tAePtb@qBhF_M|Y}A~D}HtR_AfCoB~EeLhZyB|EwO~[oF~LoB|EsFhNmC|F_B`DoI|M}AvBoBpBgClBaH`EsBxAuBdBoK`LoD`DeF~Dm@d@kLbJiBrAiErDeFdGsk@vp@}DzEY\\kN|PaK~LoNbQ{J`NuGzJy@zAaFdKOZqRx`@kG~LyEtI}GbLcKlQoAvCgAtCoA|FeAbFy@rEq@pDk@tDsCbNcHr^oCvLi@xBm@~BmA~DwDbL_AfD{AlEsFnO{A|DmBtDsAhBoCdCgHfFqI|FuDtCeBdBgB|BqMhRwM|OcBhBgMvKoAhAiB|A}AnAgMvKeNxMmJrJeThUcUpVsKfLcL~L{EpG}AlC{@zAoApBoHlLsBpCmDtDeWjTiGhF}ArAqPjPwF|FwIhIiXfXeH`HoAjAyAnAqY`TgDhCmBtBeJdMeL`PkD`EoLtJsBnBuGjHkLnLiC|BuBfC}AdC}@vBs@pB_BtFoGxUiD|OoAzG}Kxg@u@jBoCbGc@z@qCxFaArA_DtCyE`EuBjBi@d@{KnJuEdEeDpCqBpB_A`AyErE_BtAoAz@k@Z}@Z}@VeARgAHw@Bw@A_BSaBc@YOcDsAwAg@qEiBuAc@cBu@iDcByAc@gAW}@GaAAcAHaARkC|@wKpEsGfCgAh@y]hNmBz@yAbAoAfAgAbAs@`Ai@bAm@vA_@pA[dBQlC?v@B~Ar@rK@jAAjA_@rB[x@k@x@gA~@y@d@_EhBmGlC]NePbHaOrGcEpBsF|CsFlDec@`WeKbGoe@bYyw@he@kBz@aBh@cDp@mAPuc@jEqHv@}ATu@PaMxCcEp@{Ej@}UtCoDf@sA\\_AXcBr@ij@pV_\\jNmIrDYLmF`CmBp@sBh@iEl@gT~AkHl@iANqAV{Cx@}BdAkNjIgDtBuAfAaA`AoAxA_CbC}XjZqMpK_OpL_IxGiBzAaCtB}CzBeFvCyD`ByDdB}DjBiTlJ{HpDiPlHwWvLqd@xS}GdDw|@~l@aGvDcHtE_ErCcEhCiDvCqP`PqDlDmJlJyBrBuAlAsAdAwA`AeBdAiBv@eG~Bc_@jMqc@|OaFnBoBjAgAx@_CpB{\\z]_JlJsDxD_B|BiAlBaGdLiFdKuB|C_BpBiSnUi[r_@oSzVgBbBiBrAc]lS_GhD}H|DQHgJrEkClA_C|@cCz@kJrCcKbDaCn@wBz@gAl@gD|B_DjCqKtIyJfI_DbCuMvKuHbG{InH_AbAi@z@uAnA_ElCaBbAsAbA}BpBuCrBsKtI{CfCk@b@yR`PeDjCaInGgZvVqQbOmC~ByAlAiBbBqDbEcBrD_A~Co@jDgAjJe@|CQ|AgInq@wArLq@jEu@rCgAjCsAzByBjCs[nWwSdP}BdBaTtPi\\zWw@hAMJyGnF[Vw@v@yAxAe@ZCNu@xA]bAuAhF{@nDwB`Jo@hCiAhEw@|Cq@fCGf@}AlG_ApD]|@KNOPYVmErD{BhBCFG@_D~BMJI\\CROtI]`Fc@rFAZ@l@BD?HEFI?ECAI@E@u@ZqDmAECfAKvAQfA??",
+            "segments": [
+                {
+                    "distance": 202528.6,
+                    "duration": 9232.2,
+                    "steps": [
+                        {
+                            "distance": 66.4,
+                            "duration": 15.9,
+                            "instruction": "Head north",
+                            "name": "-",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "distance": 729.3,
+                            "duration": 77.7,
+                            "instruction": "Turn left onto Richmond Road",
+                            "name": "Richmond Road",
+                            "type": 0,
+                            "way_points": [
+                                1,
+                                17
+                            ]
+                        },
+                        {
+                            "distance": 1459.8,
+                            "duration": 118.9,
+                            "instruction": "Keep right onto Richmond Road",
+                            "name": "Richmond Road",
+                            "type": 13,
+                            "way_points": [
+                                17,
+                                51
+                            ]
+                        },
+                        {
+                            "distance": 119.6,
+                            "duration": 21.5,
+                            "instruction": "Keep right onto Hudson Circle",
+                            "name": "Hudson Circle",
+                            "type": 13,
+                            "way_points": [
+                                51,
+                                58
+                            ]
+                        },
+                        {
+                            "distance": 1372.5,
+                            "duration": 89.5,
+                            "instruction": "Keep left onto Kempegowda Road",
+                            "name": "Kempegowda Road",
+                            "type": 12,
+                            "way_points": [
+                                58,
+                                85
+                            ]
+                        },
+                        {
+                            "distance": 299.5,
+                            "duration": 25.8,
+                            "instruction": "Continue straight onto Kempegowda Road",
+                            "name": "Kempegowda Road",
+                            "type": 6,
+                            "way_points": [
+                                85,
+                                90
+                            ]
+                        },
+                        {
+                            "distance": 1096.4,
+                            "duration": 68.0,
+                            "instruction": "Turn right onto Dhanvanthari Road",
+                            "name": "Dhanvanthari Road",
+                            "type": 1,
+                            "way_points": [
+                                90,
+                                109
+                            ]
+                        },
+                        {
+                            "distance": 61.8,
+                            "duration": 11.1,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "type": 12,
+                            "way_points": [
+                                109,
+                                114
+                            ]
+                        },
+                        {
+                            "distance": 484.9,
+                            "duration": 34.9,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "type": 1,
+                            "way_points": [
+                                114,
+                                125
+                            ]
+                        },
+                        {
+                            "distance": 945.9,
+                            "duration": 84.9,
+                            "instruction": "Turn sharp right onto 5th Main Road",
+                            "name": "5th Main Road",
+                            "type": 3,
+                            "way_points": [
+                                125,
+                                153
+                            ]
+                        },
+                        {
+                            "distance": 143.9,
+                            "duration": 10.4,
+                            "instruction": "Turn left onto 7th Main Road",
+                            "name": "7th Main Road",
+                            "type": 0,
+                            "way_points": [
+                                153,
+                                154
+                            ]
+                        },
+                        {
+                            "distance": 155.5,
+                            "duration": 14.0,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "type": 1,
+                            "way_points": [
+                                154,
+                                158
+                            ]
+                        },
+                        {
+                            "distance": 2599.7,
+                            "duration": 182.4,
+                            "instruction": "Continue straight onto 1st Main Road",
+                            "name": "1st Main Road",
+                            "type": 6,
+                            "way_points": [
+                                158,
+                                202
+                            ]
+                        },
+                        {
+                            "distance": 975.3,
+                            "duration": 88.7,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "type": 12,
+                            "way_points": [
+                                202,
+                                223
+                            ]
+                        },
+                        {
+                            "distance": 9.5,
+                            "duration": 3.4,
+                            "instruction": "Turn left",
+                            "name": "-",
+                            "type": 0,
+                            "way_points": [
+                                223,
+                                224
+                            ]
+                        },
+                        {
+                            "distance": 1811.4,
+                            "duration": 121.4,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "type": 1,
+                            "way_points": [
+                                224,
+                                246
+                            ]
+                        },
+                        {
+                            "distance": 7.2,
+                            "duration": 0.6,
+                            "instruction": "Turn right onto Outer Ring Road, ORR",
+                            "name": "Outer Ring Road, ORR",
+                            "type": 1,
+                            "way_points": [
+                                246,
+                                247
+                            ]
+                        },
+                        {
+                            "distance": 349.3,
+                            "duration": 27.9,
+                            "instruction": "Turn left onto Tumkur Road, NH48, NH75",
+                            "name": "Tumkur Road, NH48, NH75",
+                            "type": 0,
+                            "way_points": [
+                                247,
+                                250
+                            ]
+                        },
+                        {
+                            "distance": 17049.7,
+                            "duration": 954.3,
+                            "instruction": "Keep right onto Goraguntepalya Flyover",
+                            "name": "Goraguntepalya Flyover",
+                            "type": 13,
+                            "way_points": [
+                                250,
+                                336
+                            ]
+                        },
+                        {
+                            "distance": 21417.0,
+                            "duration": 945.0,
+                            "instruction": "Keep left onto Bangalore - Mangalore Highway, NH75",
+                            "name": "Bangalore - Mangalore Highway, NH75",
+                            "type": 12,
+                            "way_points": [
+                                336,
+                                503
+                            ]
+                        },
+                        {
+                            "distance": 61843.2,
+                            "duration": 2522.3,
+                            "instruction": "Keep right onto Pune Bangalore Highway, NH48",
+                            "name": "Pune Bangalore Highway, NH48",
+                            "type": 13,
+                            "way_points": [
+                                503,
+                                919
+                            ]
+                        },
+                        {
+                            "distance": 454.0,
+                            "duration": 32.7,
+                            "instruction": "Turn slight right",
+                            "name": "-",
+                            "type": 5,
+                            "way_points": [
+                                919,
+                                923
+                            ]
+                        },
+                        {
+                            "distance": 78289.9,
+                            "duration": 3136.0,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                923,
+                                1318
+                            ]
+                        },
+                        {
+                            "distance": 2974.7,
+                            "duration": 164.7,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "type": 12,
+                            "way_points": [
+                                1318,
+                                1334
+                            ]
+                        },
+                        {
+                            "distance": 4911.5,
+                            "duration": 272.0,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                1334,
+                                1355
+                            ]
+                        },
+                        {
+                            "distance": 422.6,
+                            "duration": 30.4,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "type": 12,
+                            "way_points": [
+                                1355,
+                                1362
+                            ]
+                        },
+                        {
+                            "distance": 1508.0,
+                            "duration": 93.7,
+                            "instruction": "Keep left onto SH48",
+                            "name": "SH48",
+                            "type": 12,
+                            "way_points": [
+                                1362,
+                                1381
+                            ]
+                        },
+                        {
+                            "distance": 673.7,
+                            "duration": 52.3,
+                            "exit_number": 2,
+                            "instruction": "Enter the roundabout and take the 2nd exit onto SH48",
+                            "name": "SH48",
+                            "type": 7,
+                            "way_points": [
+                                1381,
+                                1399
+                            ]
+                        },
+                        {
+                            "distance": 125.8,
+                            "duration": 8.2,
+                            "instruction": "Keep left onto Boulevard Road, SH48",
+                            "name": "Boulevard Road, SH48",
+                            "type": 12,
+                            "way_points": [
+                                1399,
+                                1401
+                            ]
+                        },
+                        {
+                            "distance": 43.9,
+                            "duration": 5.3,
+                            "instruction": "Turn left",
+                            "name": "-",
+                            "type": 0,
+                            "way_points": [
+                                1401,
+                                1402
+                            ]
+                        },
+                        {
+                            "distance": 126.6,
+                            "duration": 18.2,
+                            "instruction": "Turn left",
+                            "name": "-",
+                            "type": 0,
+                            "way_points": [
+                                1402,
+                                1406
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at your destination, on the right",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                1406,
+                                1406
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "distance": 202528.6,
+                "duration": 9232.2
+            },
+            "way_points": [
+                0,
+                1406
+            ]
+        }
+    ]
+}

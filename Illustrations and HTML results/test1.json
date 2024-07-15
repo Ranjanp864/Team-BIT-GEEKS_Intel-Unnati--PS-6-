@@ -1,0 +1,114 @@
+{
+    "bbox": [
+        76.981215,
+        13.414441,
+        77.07226,
+        13.442217
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "engine": {
+            "build_date": "2024-06-05T10:07:23Z",
+            "graph_date": "2024-07-08T15:23:03Z",
+            "version": "8.1.0"
+        },
+        "query": {
+            "coordinates": [
+                [
+                    77.072256,
+                    13.42553
+                ],
+                [
+                    76.981194,
+                    13.442219
+                ]
+            ],
+            "format": "json",
+            "profile": "driving-car"
+        },
+        "service": "routing",
+        "timestamp": 1720941973016
+    },
+    "routes": [
+        {
+            "bbox": [
+                76.981215,
+                13.414441,
+                77.07226,
+                13.442217
+            ],
+            "geometry": "id}pAsdluMPvETtGJ~QFxEAfB?v@InEQ|B]|BM`@C|ACzAb@~J^xJ?fABtB?t@_@jH@hDFfJ@nDEdDQbBK~@E\\?|@Zn@H^FvCFZt@d@hAl@F@ZJvBJhC^ZPB\\@b@E`AiAtLq@~HIpCEhAAvDC^M|CAdF?rBQ|DEj@KnAQh@E\\?ZTnBp@rBN~AlAtCRnABl@MvBCz@FTFLhFlBj@VLJz@jAVZlB|BLZLd@JdADrBBrAJn@`@rAp@tAFLPLTF|@Ej@AJDDDBj@?JEh@o@rA?^j@dHLzCHnFCxCJpA?xD`@fCPD\\Fb@?hBNtFp@JDDPI`ABl@DNHL|An@pAZfC`@fBRFXqATs@Vo@TwD`BkBx@a@Pq@Z_A^kDxAeDvAqD`Bq@h@_@Xi@`@e@\\e@fAyDnIYl@]t@Uf@iEnJWj@SXyDhFaE|Gy@|Bm@tCe@xAy@pA_@zA_@nBCNy@~AS\\Yl@c@bA_@z@k@rAGLoA~CcE~Ja@`AmAzCaCpFwEhKg@~@m@fA}FhH_@`@eAjAoAZoLn@wLt@{BLuB`@q@L_Ct@c@r@gCl]m@xHw@fNMA",
+            "segments": [
+                {
+                    "distance": 12233.7,
+                    "duration": 815.3,
+                    "steps": [
+                        {
+                            "distance": 6755.8,
+                            "duration": 486.4,
+                            "instruction": "Head west",
+                            "name": "-",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                113
+                            ]
+                        },
+                        {
+                            "distance": 14.6,
+                            "duration": 1.1,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "type": 1,
+                            "way_points": [
+                                113,
+                                114
+                            ]
+                        },
+                        {
+                            "distance": 5456.2,
+                            "duration": 327.4,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "type": 1,
+                            "way_points": [
+                                114,
+                                175
+                            ]
+                        },
+                        {
+                            "distance": 7.1,
+                            "duration": 0.5,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "type": 1,
+                            "way_points": [
+                                175,
+                                176
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at your destination, on the left",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                176,
+                                176
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "distance": 12233.7,
+                "duration": 815.3
+            },
+            "way_points": [
+                0,
+                176
+            ]
+        }
+    ]
+}
