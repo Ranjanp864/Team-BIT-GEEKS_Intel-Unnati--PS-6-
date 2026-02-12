@@ -10,7 +10,9 @@ Include pathfile1.txt, pathfile2.txt in Source Code2- alternate traveling
 Include acpath.gpx in streamlit_app1.py
 
 Output files are : 
-gps_animation.gif, gps_animation2.gif and gps_animation3.gif
+
+![Simulation of a vehicle traveling on a Highway Road between Tumkur and Chitradurga Districts](gps_animation2.gif)
+![Simulation of a vehicle deviating from a Highway Road between Tumkur and Chitradurga Districts into a Service Road](gps_animation3.gif)
 
 
 
